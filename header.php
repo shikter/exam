@@ -47,7 +47,7 @@ require_once("functions.php");
 		  
 		  $active = "";
 		  
-		  if("/home/shikter/public_html/web/groupwork/".$page[0] == $_SERVER['SCRIPT_FILENAME']){
+		  if("/home/shikter/public_html/web/exam/".$page[0] == $_SERVER['SCRIPT_FILENAME']){
 			  if(!isset($_SESSION["user_id"]) && $page[2] == "restricted"){
 					// 1 restricets
 				header("Location: homepage.php");

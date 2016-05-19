@@ -55,7 +55,7 @@ require_once("functions.php");
 					</tr>
 					<tr>
 						<td width="225" align="center">
-							<a class='btn btn-success' href="http://greeny.cs.tlu.ee/~shikter/web/exam/app_storage.php">Add to Storage</a>
+							<a class='btn btn-success' href="./app_storage.php">Add to Storage</a>
 						</td>
 						
 						<td width="225" align="center">

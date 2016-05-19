@@ -40,7 +40,7 @@
 				<dt>Beta Version 2.0</dt>
 				<dd>© Vadim Kozlov and Dmitri Kabluchko</dd>
 				<dt>Directory:</dt>
-				<dd><div class="bkt"><a href="http://localhost:5555/~shikter/web/groupwork/" target="_blank">Web Folders</a></div>
+				<dd><div class="bkt"><a href="http://localhost:5555/~shikter/web/exam" target="_blank">Web Folders</a></div>
 			</dl>
 			<br>
 
